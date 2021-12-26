@@ -31,72 +31,72 @@ const Projects = () => {
             </div>
 
     <div className='ShopifyProject'>
-    <Fade bottom><Row>
-            <Col xs={12} md={6}>
-                <Card style={{margin:"auto"}}>
+    <Fade bottom>
+        <Row>
+            <Col style={{paddingBottom:"22px"}} xs={12} md={6} >
+                <Card className='h-100' style={{margin:"auto"}}>
                     <CardTitle style={{marginTop:"10px", fontSize:"20px"}}>Shopify Scraper Discord Bot<a href=""><FaGithub className='IconsInCardTitle'/></a></CardTitle>
                     <CardImg variant="top" src={shopify} />
                     <CardBody>
                         <CardText> 
-                            <br/>
-                            Used a REST API to extract variants and other valuable info from Shopify products. <br/>
-                            Created a Discord bot which outputs Add To Cart links aswell as variants for any shopify product <br/> 
-                        <br/>
-                        <div className='CardIcons'><FaPython /></div>
+                           
+                            Used a REST API to extract variants and other valuable info from Shopify products.<br/>
+                            Created a Discord bot which outputs Add To Cart links aswell as variants for any shopify product 
+                   
+                        <div className='CardIcons'><FaPython/>  </div>
                         </CardText>
                     </CardBody>
-                </Card>  <br />
+                </Card>
             </Col>
-
-             <Col xs={12} md={6}>
-                <Card style={{margin:"auto"}}>
-                    <CardTitle style={{marginTop:"10px", fontSize:"20px"}}>Miscellaneous Python Projects<a href=""><FaGithub className='IconsInCardTitle'/></a> </CardTitle>
+             <Col style={{paddingBottom:"22px"}} xs={12} md={6}>
+                <Card className='h-100'style={{margin:"auto"}}>
+                    <CardTitle  style={{marginTop:"10px", fontSize:"20px"}}>Miscellaneous Python Projects<a href=""><FaGithub className='IconsInCardTitle'/></a> </CardTitle>
                     <CardImg variant="top" src={refresher} />
                     <CardBody>
                         <CardText>
                             MyConcordia CO-OP Autologin &amp; Page Refresher<br/>
                             OpenSea Stats Scraper<br/>
-                            NFT MetaData Scraper<br/><br/>
-                            <div className='CardIcons'><FaPython/>     <SiSelenium style={{fontSize:"30px"}}/></div>
-                            
+                            NFT MetaData Scraper<br/>
+                            <div className='CardIcons'><FaPython/>     <SiSelenium style={{fontSize:"30px"}}/></div>  
                         </CardText>
                     </CardBody>
                 </Card>
             </Col>
         </Row>
-            </Fade>
+        </Fade>
+            
             <Fade bottom>
-            <Row style={{paddingTop:"22px"}}>
-                <Col xs={12} md={6}>
-                <Card style={{margin:"auto"}}>
+            <Row>
+                <Col style={{paddingBottom:"22px"}} xs={12} md={6}>
+                <Card className='h-100' style={{margin:"auto"}}>
                     <CardTitle style={{marginTop:"10px", fontSize:"20px"}}>McJawz Grocery Store<a href=""><FaGithub className='IconsInCardTitle'/></a></CardTitle>
                     <CardImg variant="top" src={grocery} />
                     <CardBody>
                         <CardText>
                             Created a database using XML. Integrated Add, Delete and Edit product functionalities.<br/>
                             Using the database created dynamic product and aisle pages.<br/>
-                            Item availablility and carted products with cookies.<br/><br/>
+                            Item availablility and carted products with cookies.<br/>
                             <div className='CardIcons'>
-                            <FaJs/> <FaPhp/> <FaHtml5/> <FaCss3/> <FaBootstrap/>  </div>
+                            <FaJs/> <FaPhp/> <FaHtml5/> <FaCss3/> <FaBootstrap/></div>
                         </CardText>
                     </CardBody>
                 </Card>
             </Col>
-            <Col xs={12} md={6}>
-                <Card style={{margin:"auto"}}>
+            <Col style={{paddingBottom:"22px"}} xs={12} md={6}>
+                <Card className='h-100' style={{margin:"auto"}}>
                     <CardTitle style={{marginTop:"10px", fontSize:"20px"}}>Portfolio Wesbite<a href=""><FaGithub className='IconsInCardTitle'/></a></CardTitle>
                     <CardImg variant="top" src={web} />
                     <CardBody>
-                        <CardText style={{margin:"auto"}}>
-                            <br/><br/>
-                             Created This Portfolio Website !
-                             <br/><br/>
-                             <div className='CardIcons'><FaReact/> <FaHtml5/> <FaCss3/> <FaBootstrap/> </div>
+                    <CardText style={{margin:"auto"}}>
+                              Created this Portfolio Website with HTML and CSS.<br/>
+                              Used React to convert this to a single page app.<br/>
+                             <div className='CardIcons'><FaReact/> <FaHtml5/> <FaCss3/> <FaBootstrap/></div>
                         </CardText>
                     </CardBody>
                 </Card>
             </Col>
-            </Row></Fade>
+            </Row>
+            </Fade>
             
     </div>
 </div>
