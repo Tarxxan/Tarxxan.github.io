@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tarxxan/Tarxxan.github.io/static/css/main.cd399035.css",
-    "main.js": "/Tarxxan/Tarxxan.github.io/static/js/main.6284b293.js",
-    "static/js/787.76826462.chunk.js": "/Tarxxan/Tarxxan.github.io/static/js/787.76826462.chunk.js",
-    "static/media/Resume_ChristianPangia.pdf": "/Tarxxan/Tarxxan.github.io/static/media/Resume_ChristianPangia.d507abdfc5da79d3df61.pdf",
-    "static/media/Refresher.png": "/Tarxxan/Tarxxan.github.io/static/media/Refresher.4e3d1353ed012283d0ba.png",
-    "static/media/Shopify.png": "/Tarxxan/Tarxxan.github.io/static/media/Shopify.2b0c34e5d1dbb50d8e43.png",
-    "static/media/portfolio_web.png": "/Tarxxan/Tarxxan.github.io/static/media/portfolio_web.7076f12d261b9c0db50f.png",
-    "static/media/CPH_big.png": "/Tarxxan/Tarxxan.github.io/static/media/CPH_big.ed1adca6faba9954ece3.png",
-    "static/media/Mcjawz2.png": "/Tarxxan/Tarxxan.github.io/static/media/Mcjawz2.bc3128dba9b45ed8e206.png",
-    "static/media/ProgC.png": "/Tarxxan/Tarxxan.github.io/static/media/ProgC.46b2743ef191475a5497.png",
-    "index.html": "/Tarxxan/Tarxxan.github.io/index.html",
-    "main.cd399035.css.map": "/Tarxxan/Tarxxan.github.io/static/css/main.cd399035.css.map",
-    "main.6284b293.js.map": "/Tarxxan/Tarxxan.github.io/static/js/main.6284b293.js.map",
-    "787.76826462.chunk.js.map": "/Tarxxan/Tarxxan.github.io/static/js/787.76826462.chunk.js.map"
+    "main.css": "/Tarxxan.github.io/static/css/main.cd399035.css",
+    "main.js": "/Tarxxan.github.io/static/js/main.737af730.js",
+    "static/js/787.76826462.chunk.js": "/Tarxxan.github.io/static/js/787.76826462.chunk.js",
+    "static/media/Resume_ChristianPangia.pdf": "/Tarxxan.github.io/static/media/Resume_ChristianPangia.d507abdfc5da79d3df61.pdf",
+    "static/media/Refresher.png": "/Tarxxan.github.io/static/media/Refresher.4e3d1353ed012283d0ba.png",
+    "static/media/Shopify.png": "/Tarxxan.github.io/static/media/Shopify.2b0c34e5d1dbb50d8e43.png",
+    "static/media/portfolio_web.png": "/Tarxxan.github.io/static/media/portfolio_web.7076f12d261b9c0db50f.png",
+    "static/media/CPH_big.png": "/Tarxxan.github.io/static/media/CPH_big.ed1adca6faba9954ece3.png",
+    "static/media/Mcjawz2.png": "/Tarxxan.github.io/static/media/Mcjawz2.bc3128dba9b45ed8e206.png",
+    "static/media/ProgC.png": "/Tarxxan.github.io/static/media/ProgC.46b2743ef191475a5497.png",
+    "index.html": "/Tarxxan.github.io/index.html",
+    "main.cd399035.css.map": "/Tarxxan.github.io/static/css/main.cd399035.css.map",
+    "main.737af730.js.map": "/Tarxxan.github.io/static/js/main.737af730.js.map",
+    "787.76826462.chunk.js.map": "/Tarxxan.github.io/static/js/787.76826462.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd399035.css",
-    "static/js/main.6284b293.js"
+    "static/js/main.737af730.js"
   ]
 }
