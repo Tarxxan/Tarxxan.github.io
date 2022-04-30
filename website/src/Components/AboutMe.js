@@ -14,8 +14,8 @@ const AboutMe = () => {
                      <div class="d-flex justify-content-center col-lg-6">
                             <div id="about-me-div">
                                 <h1 id="about-me">About Me</h1><br></br>
-                                <h4> Hi, my name is <span style={{color:"#7289da"}}>Christian</span> and i'm a second year Computer Science student at Concordia University.<br></br><br></br>
-                                I am experienced with languages such as <span style={{color:"#7289da"}}>Java, Javascript, Python.</span><br></br><br></br>
+                                <h4> Hi, my name is <span style={{color:"#7289da"}}>Christian</span> and I'm iin my final year of Computer Science student at Concordia University.<br></br><br></br>
+                                I am experienced with languages such as <span style={{color:"#7289da"}}>Java, C#, C++ and Python.</span><br></br><br></br>
                                 I am interested in creating new <span style={{color:"#7289da"}}>Web Technologies and Products</span> as well as automating web tasks using <span style={{color:"#7289da"}}> REST API's.</span><br></br><br></br>
                                 Whenever possible, I apply my passion for developing and automation to simplify small tedious tasks.<br></br><br></br>
                                 <span style={{color:"#7289da"}}>Check Me Out Below ! </span> </h4>

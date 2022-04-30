@@ -21,11 +21,19 @@ const Projects = () => {
                           <div className="FadedBorder" style={{color:'white',fontSize:"30px",borderLeft:"4px solid #7289da",marginLeft:"10%"}}>
                               <div style={{textDecorationLine:"underline",textDecorationColor:"#7289da",marginLeft:"10px"}}>Continent 8 Technologies</div>
                               <div style={{marginLeft:"10px"}}><h5>&emsp;Data Analyst Intern</h5>
-                                  <h6>&emsp; September 2021 - Current</h6></div>
+                                  <h6>&emsp; September 2021 - May 2022</h6></div>
                             </div>
                     </Fade> 
                 </div>
-
+                <div className="internship" style={{color:'white', margin:"auto",textAlign:"left", padding:"80px",textUnderlineOffset:"18%"}}>
+                    <Fade left>
+                          <div className="FadedBorder" style={{color:'white',fontSize:"30px",borderLeft:"4px solid #7289da",marginLeft:"10%"}}>
+                              <div style={{textDecorationLine:"underline",textDecorationColor:"#7289da",marginLeft:"10px"}}>Continent 8 Technologies</div>
+                              <div style={{marginLeft:"10px"}}><h5>&emsp;DevOps Intern</h5>
+                                  <h6>&emsp; May 2022 - Current</h6></div>
+                            </div>
+                    </Fade> 
+                </div>
             <div id="projects-div" class="container-fluid bg-dark pb-3" style={{paddingTop:"4em"}}>
                 <div ><h1 id="about-me">My Projects</h1></div>
             </div>
